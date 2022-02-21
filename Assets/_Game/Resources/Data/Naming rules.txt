@@ -1,0 +1,10 @@
+The id consists of 3 elements
+Type_Name_Number
+
+Example: 
+E_Spider_01
+
+D - Decoy
+E - Enemy
+I - Item
+T - Treasure
